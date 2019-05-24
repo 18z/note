@@ -11,6 +11,7 @@ KunYu Chen's Notes!
    :caption: Contents:
 
    talks
+   book
 
 
 Indices and tables
