@@ -17,3 +17,11 @@ Nuggests that Inspire
     programming, I like doing things that are productive.”
 
     - Jim Clark
+
+    So the way to manage yourself is that when you have a real important problem
+    you don't let anything else get the center of your attention - you keep your
+    thoughts on the problem. Keep your subconscious starved so it has to work on
+    your problem, so you can sleep peacefully and get the answer in the morning,
+    free.
+
+    - Richard Hamming, You and Your Research
