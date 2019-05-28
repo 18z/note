@@ -14,6 +14,7 @@ KunYu Chen's Notes!
    book
    encoding_research
    viper
+   linux-tips
 
 
 Indices and tables
