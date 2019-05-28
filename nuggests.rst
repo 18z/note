@@ -25,3 +25,8 @@ Nuggests that Inspire
     free.
 
     - Richard Hamming, You and Your Research
+
+    超微做了很大的賭注，過去三到五年，做的決定都跟別人不一樣，目標就是要把現有的
+    科技推向極致。
+
+    - 蘇姿丰
