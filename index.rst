@@ -12,6 +12,7 @@ KunYu Chen's Notes!
 
    talks
    book
+   encoding_research
 
 
 Indices and tables
