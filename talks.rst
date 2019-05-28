@@ -9,6 +9,8 @@ PyCon *
   
   + Topic: To Be Announced.
   
+-------- 
+  
 * 2017, PyCon Taiwan
   
   + Python Code Reading Skillset: A Case Study of Viper
@@ -24,3 +26,5 @@ COSCUP
   + Python Code Reading Skillset: A Case Study of Viper
   + `COSCUP official introduction of this talk <https://coscup.org/2018/programs/viper/>`_
   + `Slides <https://docs.google.com/presentation/d/1T4qcir5dEXq2956xqDtr_8sfXSkfHa8VAN-GC6BZLdc/edit?usp=sharing>`_
+
+-------- 
