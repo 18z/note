@@ -13,6 +13,7 @@ KunYu Chen's Notes!
    talks
    book
    encoding_research
+   viper
 
 
 Indices and tables
