@@ -2,7 +2,7 @@
 Open Source Code Tracing
 +++++++++++++++++++++++++
 
-Online Book working in progress
+[WIP] Online Book working
 =========================
 
 * Chinese Version
