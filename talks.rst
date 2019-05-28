@@ -18,6 +18,8 @@ PyCon *
   + `Video on Youtube <https://youtu.be/TWpoBK1xhYU>`_
   + `Slides <https://docs.google.com/presentation/d/1HwBrETgmEz6-igEVaPAtQPWyuBljyFyvXtKzHLSVaMk/edit?usp=sharing>`_
 
+--------
+
 COSCUP 
 =======
 
