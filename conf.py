@@ -47,6 +47,7 @@ exclude_patterns = []
 # import sphinx_rtd_theme
 # html_theme = 'sphinx_rtd_theme' # alabaster
 # html_theme = 'alabaster' # alabaster
+html_theme = 'default'
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # Add any paths that contain custom static files (such as style sheets) here,
