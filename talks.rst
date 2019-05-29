@@ -2,7 +2,7 @@
 Talks
 +++++
 
-PyCon *
+PyCon (TW, KR)
 ========
 
 * 2019, PyCon Korea
