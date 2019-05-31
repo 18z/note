@@ -30,3 +30,8 @@ Nuggests that Inspire
     科技推向極致。
 
     - 蘇姿丰
+
+    Q: “Have we spent enough time focusing on your issues?”
+    A: When in doubt, the answer to this question is always no.
+
+    - Seth Godin
