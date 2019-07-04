@@ -35,3 +35,6 @@ Nuggests that Inspire
     A: When in doubt, the answer to this question is always no.
 
     - Seth Godin
+
+    If you get tired, learn to rest, not to quit.
+    - Banksy
