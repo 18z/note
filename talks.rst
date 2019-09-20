@@ -2,18 +2,31 @@
 Talks
 +++++
 
-PyCon (TW, KR)
+HITCON
+========
+
+* 2019, HITCON 101
+
+  + BackSwap Infinity War - Deep Dive Analysis of Banking Trojan
+
+PyCon (TW, KR, MY)
 ========
 
 * 2019, PyCon Korea
 
-  + Topic: To Be Announced.
+  + Topic: Click Click Boom! Bombs Over Our Minds.
 
 --------
 
 * 2019, PyCon Taiwan
 
-  + Topic: To Be Announced.
+  + Topic: Click Click Boom! Bombs Over Our Minds.
+
+--------
+
+* 2019, PyCon Taiwan
+
+  + Topic: Click Click Boom! Bombs Over Our Minds.
 
 --------
 
